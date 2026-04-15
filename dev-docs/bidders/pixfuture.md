@@ -15,7 +15,7 @@ pbjs: true
 sidebarType: 1
 ---
 
-### Overview
+## Overview
 
 The PixFuture Bidder Adapter connects publishers to PixFuture’s demand via Prebid.js, supporting **banner and video media types**.
 
@@ -27,7 +27,7 @@ To use this adapter, your PixFuture account must be approved for Prebid integrat
 
 To download the PixFuture adapter for Prebid.js, visit:
 
-https://docs.prebid.org/download.html
+[https://docs.prebid.org/download.html](https://docs.prebid.org/download.html) 
 
 Select the `pixfuture` bidder from the list, along with other bidders you wish to include in your build.
 
@@ -39,8 +39,8 @@ To enable this integration, email <support@pixfuture.com>.
 
 ### Bid Parameters
 
-| Name | Scope | Description | Example | Type |
-|-----|------|-------------|--------|------|
+| Name     | Scope    | Description                                                                               | Example      | Type     |
+|----------|----------|-------------------------------------------------------------------------------------------|--------------|----------|
 | `pix_id` | required | A unique ID for your site’s ad placement. Corresponds to each ad size or video placement. | `"12312345"` | `string` |
 
 These bid parameters are supported by the Prebid.js PixFuture adapter.
