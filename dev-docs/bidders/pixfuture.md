@@ -39,6 +39,7 @@ To enable this integration, email <support@pixfuture.com>.
 
 ### Bid Parameters
 
+{: .table .table-bordered .table-striped }
 | Name     | Scope    | Description                                                                               | Example      | Type     |
 |----------|----------|-------------------------------------------------------------------------------------------|--------------|----------|
 | `pix_id` | required | A unique ID for your site’s ad placement. Corresponds to each ad size or video placement. | `"12312345"` | `string` |
