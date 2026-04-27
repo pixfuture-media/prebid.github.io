@@ -21,7 +21,6 @@ The PixFuture Bidder Adapter connects publishers to PixFuture’s demand via Pre
 
 To use this adapter, your PixFuture account must be approved for Prebid integration. Contact <support@pixfuture.com> to request activation or for setup assistance.
 
----
 
 ### Solution
 
