@@ -125,5 +125,4 @@ var adUnits = [
 
 ```
 
----
 This configuration enables the PixFuture adapter to participate in instream video auctions and return VAST responses that can be rendered by VAST-compatible video players (e.g., Google IMA SDK or Video.js).
