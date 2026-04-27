@@ -34,7 +34,6 @@ Select the `pixfuture` bidder from the list, along with other bidders you wish t
 The `pixfuture` adapter requires account approval from PixFuture.  
 To enable this integration, email <support@pixfuture.com>.
 
----
 
 ### Bid Parameters
 
