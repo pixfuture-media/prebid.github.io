@@ -47,7 +47,6 @@ These bid parameters are supported by the Prebid.js PixFuture adapter.
 
 The `pix_id` is a unique identifier provided by PixFuture and must be specified for each ad placement.
 
----
 
 # Prebid.js Integration
 
