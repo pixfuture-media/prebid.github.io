@@ -88,7 +88,6 @@ var adUnits = [
 
 ```
 
-
 ## Video Example
 
 Below is an example configuration for video inventory.
