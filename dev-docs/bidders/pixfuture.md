@@ -93,7 +93,6 @@ var adUnits = [
 
 ```
 
----
 
 ## Video Example
 
