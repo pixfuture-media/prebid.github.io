@@ -26,7 +26,7 @@ To use this adapter, your PixFuture account must be approved for Prebid integrat
 
 To download the PixFuture adapter for Prebid.js, visit:
 
-[https://docs.prebid.org/download.html](https://docs.prebid.org/download.html) 
+[/download] 
 
 Select the `pixfuture` bidder from the list, along with other bidders you wish to include in your build.
 
